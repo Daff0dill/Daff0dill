@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DDaff0dill%26label%3DMEOW!~%26style%3Dflat&labelColor=283b62&color=9ac4da&style=flat" alt="Daff0dill" />
+  <img src="https://visitor-badge.vercel.app/badge?page_id=Daff0dill.github&left_color=%23f0f9f8&right_color=%23c6e6e3&left_text=MEOW!~" alt="Daff0dill" />
 </p>
